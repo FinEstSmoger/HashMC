@@ -1,3 +1,3 @@
 #HashMC#
 --------
-Building public Minecraft server for learn codeing as a hobbie.
+Building public Minecraft server for learn coding as a hobbie.
